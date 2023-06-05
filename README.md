@@ -1,3 +1,2 @@
-# Welcome to my side projects! So far I have:
-# • Silly Sally Riddle
-# The list will continue on...
+# Welcome to my side projects! So far I have
+• Silly Sally Riddle
