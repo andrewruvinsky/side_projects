@@ -1,3 +1,3 @@
 # Welcome to my side projects! So far I've made:
-- Silly Sally Riddle
-- Text-Based Chess
+- (C++) Silly Sally Riddle
+- (Python) Text-Based Chess
